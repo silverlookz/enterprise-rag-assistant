@@ -1,0 +1,17 @@
+{"question": "What is the maximum loan-to-value for an uninsured mortgage?", "expected_source": "mortgage_underwriting_policy.md"}
+{"question": "What GDS and TDS ratios are allowed for mortgage applicants?", "expected_source": "mortgage_underwriting_policy.md"}
+{"question": "How is bonus income treated when qualifying a borrower?", "expected_source": "mortgage_underwriting_policy.md"}
+{"question": "Who can approve an underwriting exception?", "expected_source": "mortgage_underwriting_policy.md"}
+{"question": "How many days does a cardholder have to dispute a charge?", "expected_source": "credit_card_disputes.md"}
+{"question": "When is provisional credit issued for a 700 dollar dispute?", "expected_source": "credit_card_disputes.md"}
+{"question": "How long does a fraud claim investigation take?", "expected_source": "credit_card_disputes.md"}
+{"question": "When must a large cash transaction be reported?", "expected_source": "kyc_aml_standard.md"}
+{"question": "Which clients need enhanced due diligence?", "expected_source": "kyc_aml_standard.md"}
+{"question": "How often are high-risk client profiles reviewed?", "expected_source": "kyc_aml_standard.md"}
+{"question": "Can restricted client data be sent to external AI services?", "expected_source": "data_retention_policy.md"}
+{"question": "How long are call recordings retained?", "expected_source": "data_retention_policy.md"}
+{"question": "What happens to scheduled deletion under a legal hold?", "expected_source": "data_retention_policy.md"}
+{"question": "What is the daily meal allowance for international travel?", "expected_source": "travel_expense_policy.md"}
+{"question": "Who approves business class flights?", "expected_source": "travel_expense_policy.md"}
+{"question": "What is the dress code for the downtown office?", "expected_source": null}
+{"question": "How many vacation days do new employees get?", "expected_source": null}
